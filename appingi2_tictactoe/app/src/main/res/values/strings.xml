@@ -1,0 +1,13 @@
+<resources>
+    <string name="x_guest">X(Guest)</string>
+    <string name="o">O</string>
+    <string name="n">.</string>
+    <string name="Turn">Player Turn :</string>
+    <string name="Made">Made at</string>
+    <string name="Name">Name</string>
+    <string name="Start_But">START!</string>
+    <string name="Ask_Name">Please enter your name</string>
+    <string name="Some_text_shit">Oneapp, One Game. Made By Gmar Iheb for the Android exam on Dec the 17th</string>
+    <string name="Game_Name">Tic Tac Toe</string>
+    <string name="App_name">Hello Layouts</string>
+</resources>
